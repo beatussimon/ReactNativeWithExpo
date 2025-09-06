@@ -1,0 +1,12 @@
+to style a rn object you can use stylecomponent library like react for the web or 
+package called native wind to use tailwind classes
+
+By default view inherits the flexbox system
+
+you imprt the StyleSheet namespace and use its create method to create a naew stylesheet
+
+and we store its retun va;ue in the constcalled styes
+
+you can apply styles both separately and as inline bu using the array and serataing the syles with a comma
+
+athe one on the from will override the one behind
